@@ -1,5 +1,5 @@
 // sudo apt-get install libopenal-dev
-// gcc -o openal_play_monday   openal_play_monday.c  -lopenal -lm
+// gcc -o sintese_senoide   sintese_senoide.c  -lopenal -lm
 
 #include <stdio.h>
 #include <stdlib.h>    
